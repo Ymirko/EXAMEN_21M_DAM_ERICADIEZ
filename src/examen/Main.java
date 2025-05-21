@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
-        System.out.println("Buenos días Ceinmark, soy Marta Gómez");
+        System.out.println("Buenos días Ceinmark, soy Erica Díez");
         System.out.println("\nIntroduce un número para averiguar si es primo o no: ");
         
         int numero = scanner.nextInt();
